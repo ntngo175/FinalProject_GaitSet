@@ -1,0 +1,1 @@
+python pretreatment.py --input_path='D:\Workspace\python\Capstone_Project\GaitSet\CASIA-B' --output_path='D:\Workspace\python\Capstone_Project\GaitSet\output_pretreatment'
